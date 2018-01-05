@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityServerQuickStart", "IdentityServerQuickStart\IdentityServerQuickStart.csproj", "{278A6134-0954-4A47-8220-86E6BC79F879}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api", "Api\Api.csproj", "{54A66ED1-D643-46C2-9F39-00D12AF10B8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{278A6134-0954-4A47-8220-86E6BC79F879}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{278A6134-0954-4A47-8220-86E6BC79F879}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{278A6134-0954-4A47-8220-86E6BC79F879}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{278A6134-0954-4A47-8220-86E6BC79F879}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54A66ED1-D643-46C2-9F39-00D12AF10B8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54A66ED1-D643-46C2-9F39-00D12AF10B8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54A66ED1-D643-46C2-9F39-00D12AF10B8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54A66ED1-D643-46C2-9F39-00D12AF10B8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BD986C9-6A75-483E-B827-D94A5C3D1CE6}
+	EndGlobalSection
+EndGlobal
